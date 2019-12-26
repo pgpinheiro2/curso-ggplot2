@@ -13,3 +13,10 @@ O R já vem instalado com diversas base de dados. Vamos escolher ... para aplica
 ## Exemplo 3: 
 
 ## Resumo Final: A gramática dos gráficos!
+
+## Referência
+![R for Data Science](https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png)
+R for Data Science
+Garrett Grolemund
+Hadley Wickham
+https://r4ds.had.co.nz/

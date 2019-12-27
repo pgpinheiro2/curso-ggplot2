@@ -2,8 +2,10 @@
 Notas para minicurso sobre o pacote ggplot2 do R a ser ministrado para servidores públicos na Universidade Federal do Amapá. No entanto, nada impede, claro!, que outros públicos utilizem este material.
 
 ## Instalação do pacote `ggplot2`
+```{r setup}
 install.packages('ggplot2')
 library(ggplot2)
+```
 
 ## Base de dados `escolhida`
 O R já vem instalado com diversas base de dados. Vamos escolher ... para aplicar nossos exemplos.

@@ -19,6 +19,8 @@ O R já vem instalado com diversas base de dados. Vamos escolher ... para aplica
 ## Resumo Final: A gramática dos gráficos!
 
 ## Referências
+Este curso está sendo elaborado com duas referências básicas. Usamos o livro *R for Data Science* dos pesquisadores Garret e Wickham. O outro material que usamos é da série *cheat sheet* do *RStudio*.
+
 ![R for Data Science](https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png)
 ![Diponível clicando aqui!](https://r4ds.had.co.nz/)
 
